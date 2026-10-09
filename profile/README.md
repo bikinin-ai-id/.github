@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikinin-ai-id/.github/main/profile/banner.png" alt="Bikinin.id — Jelaskan bisnisnya. Agent-nya siap jalan." width="100%">
+  <img src="https://raw.githubusercontent.com/bikinin-ai-id/.github/main/profile/banner.png" alt="Bikinin.ai.id — Jelaskan bisnisnya. Agent-nya siap jalan." width="100%">
 </p>
 
-# Bikinin.id
+# Bikinin.ai.id
 
 Agent untuk pekerjaan bisnis. Anda menjelaskan pekerjaannya, Bikinin menyusun alurnya, menguji tiap langkah, lalu menyambungkannya ke penyedia pesan yang dipakai tim.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikinin-ai-id/.github/main/profile/logo-sting.gif" alt="Animasi logo Bikinin.id" width="480">
+  <img src="https://raw.githubusercontent.com/bikinin-ai-id/.github/main/profile/logo-sting.gif" alt="Animasi logo Bikinin.ai.id" width="480">
 </p>
 
 ## Cara kerjanya
